@@ -1,0 +1,7 @@
+.WebsitesList {
+  cursor: pointer;
+}
+
+.WebsitesList div {
+  overflow-x: scroll;
+}
