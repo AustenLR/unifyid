@@ -1,5 +1,4 @@
 import React from 'react';
-import { Jumbotron } from 'react-bootstrap';
 import WebsiteRow from './WebsiteRow';
 import './WebsitesList.css';
 
